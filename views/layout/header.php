@@ -10,7 +10,7 @@
     <!-- Une barre de navigation test -->
     <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Ma Para</a>
+        <a class="navbar-brand" href="#">Parapharmacie</a>
       </div>
     </nav>
     <div class="container mt-5">
